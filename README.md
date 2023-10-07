@@ -4,5 +4,5 @@
 
 This repository contains the scanned version of my high school biology and chemistry class notes, including course notes and errors. If necessary, you can take it yourself.
 
-![](https://github.com/Roorings/High-School-class-notes/blob/main/Biology/2018-06-15%20154340(1).jpg)
+![](https://github.com/Roorings/High-School-class-notes/blob/main/Biology/2018-06-15%20154340(1).jpg transform:rotate(270deg))
 
