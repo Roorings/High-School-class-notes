@@ -6,4 +6,3 @@ This repository contains the scanned version of my high school biology and chemi
 
 ![](https://github.com/Roorings/High-School-class-notes/blob/main/Biology/2018-06-15%20154340(1).jpg)
 
-![]<img src="https://github.com/Roorings/High-School-class-notes/blob/main/Biology/2018-06-15%20154340(1).jpg" alt="avatar" style="zoom: 50%;transform:rotate (270deg)"/>
